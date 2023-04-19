@@ -1,0 +1,6 @@
+
+word_count = 91
+letter_count = 483
+space_count = 90
+tab_count = 3
+line_count = 2
